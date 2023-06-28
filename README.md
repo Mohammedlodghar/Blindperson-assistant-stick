@@ -1,3 +1,7 @@
+
+![we5](https://github.com/Mohammedlodghar/Blindperson-assistant-stick/assets/58025557/8381c77d-14db-43f8-b563-5b5b693cf8f1)
+
+
 # Blind-Stick-ML-Assistant
 Implements the Yolov5 algorithm to discover objects in front of the camera module, to produce a unique sound output based on the type of object.
 
